@@ -10,13 +10,13 @@ I make e-learning for a professional training provider, and I have my own compan
 
 ## Work
 
-### E-learning for a professional training provider
+### E-course building — professional training provider
 
 I help organise training material and turn it into e-learning. I work with the trainers, and content only goes live after a content review.
 
 Finished and live (November 2026): I have built and improved live courses — lesson structure, short recap videos, questions and interactive exercises, based on official course material. Case studies coming soon.
 
-My exact job title and employment relationship are left out on purpose. Niklas will fill that in himself.
+Role: E-course building.
 
 ### AI-NLAS
 
