@@ -29,6 +29,7 @@ My own company, a sole proprietorship (eenmanszaak), registered with the KvK (Du
 - Interactive HTML/JS exercises that keep working inside a learning platform (a game, drag-and-drop, find-the-error)
 - Make official course material easier to follow, without shortening or changing it
 
-## Education and earlier experience
+## Education
 
-Still to be filled in.
+- **Commercial Business Management**, Hogeschool TIO Amsterdam (completed)
+- **Associate Degree Software Development**, Hogeschool van Amsterdam (1 year)
